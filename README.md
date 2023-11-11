@@ -24,7 +24,7 @@ The variables included in this dataset are:
 
 -   The R Markdown document, containing the R code and explanations (PA1_template.Rmd), The Markdown format (PA1_template.md), and the HTML version (PA1_template.html).
 -   The folder containing all of the graphs created in the markdown document.
-
+The dataset used within the assignment has the file name activity.zip.
 ## Assignment
 
 This assignment will be described in multiple parts. You will need to
